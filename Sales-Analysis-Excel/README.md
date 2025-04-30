@@ -23,7 +23,7 @@ This project presents a detailed Excel dashboard analyzing FNP's sales data. It 
 
 
 ## 📄 Project Summary
-For a detailed breakdown, read the full executive summary:[Project_Summary.pdf](Project_Summary.pdf)
+For a detailed breakdown, read the full executive summary:[Project Summary.pdf](Project_Summary.pdf)
 
 ## 🔧 Tools Used
 - Microsoft Excel
